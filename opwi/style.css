@@ -1,0 +1,13 @@
+.rd{
+    background-color: grey;
+    width: 610px;
+    height: 30px;
+    margin-left: 350px;
+    margin-top: 10px;
+}
+.ql{
+    display: flex;
+    justify-content: space-between;
+    padding: 3px;
+
+}
